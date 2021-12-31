@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="friends_Different_Class.TC_0GIRI"/>
+      <class name="friends_Different_Class.TC_0VISHU"/>
+      <class name="friends_Different_Class.TC_0ABHI"/>
+      <class name="friends_Different_Class.TC_0SUHAS"/>
+      <class name="friends_Different_Class.TC_0VASU"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
